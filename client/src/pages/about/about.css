@@ -1,0 +1,35 @@
+.about{
+    background-color:peachpuff;
+}
+
+.about span{
+    color:bisque;
+    background-color:rgb(164, 33, 7);
+    padding: 5px 13px 5px 13px;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: 600px;
+}
+
+#aim div, #believe div, #are div, #do div{
+    margin: 65px 25px 10px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:darkslategray;
+}
+
+#aim p, #believe p, #are p, #do p{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 90px;
+    text-align: center;
+    background-color:darksalmon;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    font-size: 30px;
+    font-weight: 600;
+    color:rgb(2, 71, 37);
+    padding: 34px 1px 34px 28px;
+}
+

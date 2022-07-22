@@ -1,0 +1,117 @@
+.contact{
+    margin-top: 17px;
+}
+
+.head{
+    color:bisque;
+    background-color:rgb(164, 33, 7);
+    padding: 5px 13px 5px 13px;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-left: 600px;
+}
+
+.con{
+    display: flex; 
+    background-color:peru;
+    margin-top: 15px;
+}
+
+.content{
+    margin: 80px 40px;
+    width: 50%;
+}
+
+.first{
+    margin: 25px 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.second{
+    margin: 12px 20px;
+    font-size: 60px;
+    font-family:Georgia, 'Times New Roman', Times, seriff; 
+    font-weight: 600;
+}
+
+.third{
+    margin: 21px 1px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.third button{
+    margin: 14px 14px;
+    padding: 8px 12px;
+    border-radius: 12px;
+    font-size: 15px;
+    border: none;
+    background-color: darkcyan;
+    cursor: pointer;
+}
+
+.third button:hover{
+    background-color: rgb(22, 92, 153);
+}
+
+.forth{
+    margin: 1px 8px;
+    font-size: 23px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+
+.forth span{
+    color:darkblue;
+}
+ 
+.forth span:hover{
+    color:rgb(12, 116, 64)
+}
+
+.forth p{
+    padding-top: 5px;
+    font-size: 16px;
+}
+
+.imge{
+    margin-top: 85px;
+}
+
+.imge img{
+    width: 530px;
+    height: 340px;
+    margin-left: 20px;
+}
+
+.reach{
+    margin: 5px 5px;
+    display: flex;
+}
+
+.heading{
+    width: 40%;
+    margin: 102px 15px;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.add{
+    margin: 1px 60px;
+}
+
+.para{
+    margin: 10px 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifd ;
+    font-size: 23px;
+}
+
+.para1{
+    margin-right: 530px;
+    margin-left: 30px;
+    border-left: 1px solid #a7a4a4;
+    padding: 14px 40px;
+    font-size: 20px;
+    font-style: oblique;
+}
